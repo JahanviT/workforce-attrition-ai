@@ -58,6 +58,7 @@ The same query returns real employee IDs to ACCOUNTADMIN and NULL to the least-p
 ![Masking policy attached to FACT_ATTRITION](screenshots/masking-policy.png)
 
 ## Limitations and next steps
-- Retrieval ranks all comments by meaning, so department-specific questions can pull comments from other departments. Next step: filter by department when the question names one, then rank by similarity.
-- Exit comments are synthetic; with real data, retrieval quality and findings would need re-validation.
-- Built on a Snowflake trial account: AI functions require a payment method on trial accounts, and current LLMs are served through cross-region inference from AWS US West 2.
+- **Department-aware retrieval:** retrieval ranks all comments by meaning, so a question about Sales can pull comments from other departments. Next step: filter by department when the question names one, then rank by similarity.
+- **Retrieval precision:** similarity scores for top results fall in a narrow band (about 0.89 to 0.90), so loosely related comments can rank highly. Next steps: add a minimum similarity threshold, test a larger embedding model (snowflake-arctic-embed-l-v2.0), and combine semantic search with keyword filters (hybrid search).
+- **Synthetic text:** exit comments are synthetic; with real data, retrieval quality and findings would need re-validation.
+- **Environment:** built on a Snowflake trial account in AWS US West 2 (Oregon). Current LLMs are served through Snowflake's cross-region inference (`CORTEX_ENABLED_CROSS_REGION = 'AWS_US'`), and legacy Cortex functions were migrated to the newer AI_EMBED and AI_COMPLETE.
