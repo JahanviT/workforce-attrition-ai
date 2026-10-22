@@ -1,0 +1,301 @@
+COMMENT_ID,DEPARTMENT,JOB_ROLE,TENURE_BAND,PRIMARY_THEME,COMMENT_TEXT
+C0001,Research & Development,Research Scientist,0-1 years,growth,Training opportunities were limited. Travel requirements kept me away from home too often.
+C0002,Research & Development,Research Scientist,2-4 years,overtime,"The overtime became the normal schedule, not the exception. Travel requirements kept me away from home too often."
+C0003,Research & Development,Manager,2-4 years,commute,The commute was too long and it wore me down. I received a much better salary offer elsewhere.
+C0004,Research & Development,Healthcare Representative,5-9 years,pay,My pay did not keep up with the market for my role.
+C0005,Sales,Sales Representative,0-1 years,overtime,Constant extra hours left no time for my family.
+C0006,Research & Development,Research Director,2-4 years,overtime,I burned out from the overtime expectations during busy seasons. Promotions seemed to go to the same few people.
+C0007,Research & Development,Research Scientist,2-4 years,work_life,I could not take time off without falling behind.
+C0008,Research & Development,Manufacturing Director,0-1 years,pay,Raises were small compared to what peers earn at other companies. Frequent manager changes made it hard to build trust.
+C0009,Research & Development,Laboratory Technician,5-9 years,commute,The commute was too long and it wore me down. There was no clear path to the next level.
+C0010,Research & Development,Research Scientist,10+ years,pay,I received a much better salary offer elsewhere.
+C0011,Sales,Sales Executive,5-9 years,growth,My work stopped being challenging.
+C0012,Sales,Sales Representative,10+ years,promotion,"I wanted to grow, but the role felt like a dead end. Constant extra hours left no time for my family."
+C0013,Research & Development,Manufacturing Director,0-1 years,promotion,There was no clear path to the next level.
+C0014,Research & Development,Research Scientist,10+ years,overtime,"The overtime became the normal schedule, not the exception."
+C0015,Research & Development,Manufacturing Director,0-1 years,promotion,"I wanted to grow, but the role felt like a dead end."
+C0016,Research & Development,Research Scientist,5-9 years,work_life,The workload made it hard to have a life outside work.
+C0017,Sales,Sales Representative,5-9 years,overtime,I was working late almost every night and it never let up.
+C0018,Human Resources,Human Resources,5-9 years,manager,My manager rarely gave feedback or recognition.
+C0019,Research & Development,Research Director,5-9 years,work_life,Work-life balance got worse every year. I was working late almost every night and it never let up.
+C0020,Research & Development,Research Scientist,0-1 years,growth,"I wanted to learn new skills, but there was no budget for it. I received a much better salary offer elsewhere."
+C0021,Research & Development,Research Scientist,2-4 years,positive,I am leaving for personal reasons; the company treated me well.
+C0022,Sales,Sales Representative,5-9 years,positive,"Overall I enjoyed my team, but the opportunity elsewhere was too good to pass up."
+C0023,Research & Development,Research Director,2-4 years,promotion,There was no clear path to the next level.
+C0024,Research & Development,Manufacturing Director,5-9 years,positive,I am leaving for personal reasons; the company treated me well.
+C0025,Research & Development,Research Director,2-4 years,promotion,There was no clear path to the next level. I did not feel supported by my direct manager.
+C0026,Sales,Manager,0-1 years,commute,The commute was too long and it wore me down. Constant extra hours left no time for my family.
+C0027,Research & Development,Healthcare Representative,10+ years,work_life,Work-life balance got worse every year.
+C0028,Sales,Sales Representative,10+ years,work_life,Work-life balance got worse every year. Frequent manager changes made it hard to build trust.
+C0029,Research & Development,Manager,2-4 years,overtime,I was working late almost every night and it never let up. Work-life balance got worse every year.
+C0030,Sales,Manager,10+ years,promotion,"I wanted to grow, but the role felt like a dead end. My manager rarely gave feedback or recognition."
+C0031,Research & Development,Research Director,2-4 years,overtime,I was working late almost every night and it never let up.
+C0032,Sales,Sales Representative,2-4 years,promotion,"I wanted to grow, but the role felt like a dead end."
+C0033,Sales,Sales Representative,10+ years,pay,Compensation was the main reason I started looking. The workload made it hard to have a life outside work.
+C0034,Sales,Sales Representative,0-1 years,pay,I received a much better salary offer elsewhere.
+C0035,Research & Development,Research Scientist,2-4 years,overtime,I burned out from the overtime expectations during busy seasons.
+C0036,Sales,Manager,10+ years,overtime,"The overtime became the normal schedule, not the exception. My pay did not keep up with the market for my role."
+C0037,Sales,Manager,10+ years,pay,I received a much better salary offer elsewhere.
+C0038,Research & Development,Research Director,5-9 years,manager,Frequent manager changes made it hard to build trust. Work-life balance got worse every year.
+C0039,Research & Development,Manager,0-1 years,work_life,I could not take time off without falling behind. The commute was too long and it wore me down.
+C0040,Research & Development,Research Director,2-4 years,positive,"Overall I enjoyed my team, but the opportunity elsewhere was too good to pass up."
+C0041,Research & Development,Laboratory Technician,5-9 years,growth,Training opportunities were limited.
+C0042,Sales,Sales Representative,0-1 years,work_life,The workload made it hard to have a life outside work. My work stopped being challenging.
+C0043,Research & Development,Research Director,2-4 years,pay,I received a much better salary offer elsewhere.
+C0044,Sales,Sales Executive,2-4 years,commute,The commute was too long and it wore me down. Frequent manager changes made it hard to build trust.
+C0045,Research & Development,Healthcare Representative,0-1 years,manager,Frequent manager changes made it hard to build trust.
+C0046,Sales,Sales Representative,5-9 years,work_life,Work-life balance got worse every year. Travel requirements kept me away from home too often.
+C0047,Sales,Sales Representative,0-1 years,manager,Communication with leadership was poor and inconsistent.
+C0048,Sales,Manager,10+ years,growth,My work stopped being challenging. There was no clear path to the next level.
+C0049,Sales,Sales Representative,2-4 years,pay,I received a much better salary offer elsewhere.
+C0050,Research & Development,Manager,2-4 years,overtime,I burned out from the overtime expectations during busy seasons.
+C0051,Research & Development,Laboratory Technician,0-1 years,growth,Training opportunities were limited.
+C0052,Sales,Sales Representative,2-4 years,work_life,I could not take time off without falling behind.
+C0053,Sales,Manager,2-4 years,overtime,I was working late almost every night and it never let up.
+C0054,Sales,Sales Representative,5-9 years,pay,My pay did not keep up with the market for my role. I moved farther away and the drive became unsustainable.
+C0055,Sales,Sales Executive,5-9 years,positive,"Great coworkers, and I would consider coming back in the future."
+C0056,Research & Development,Manufacturing Director,2-4 years,work_life,The workload made it hard to have a life outside work. Constant extra hours left no time for my family.
+C0057,Research & Development,Healthcare Representative,0-1 years,overtime,I burned out from the overtime expectations during busy seasons. I could not take time off without falling behind.
+C0058,Sales,Manager,0-1 years,pay,I received a much better salary offer elsewhere.
+C0059,Research & Development,Research Director,2-4 years,work_life,The workload made it hard to have a life outside work.
+C0060,Sales,Sales Executive,5-9 years,positive,"Great coworkers, and I would consider coming back in the future."
+C0061,Research & Development,Research Scientist,10+ years,work_life,I could not take time off without falling behind.
+C0062,Sales,Manager,2-4 years,pay,My pay did not keep up with the market for my role. I moved farther away and the drive became unsustainable.
+C0063,Research & Development,Healthcare Representative,10+ years,promotion,I went years without a promotion despite strong reviews. Raises were small compared to what peers earn at other companies.
+C0064,Research & Development,Manager,2-4 years,pay,Compensation was the main reason I started looking.
+C0065,Research & Development,Healthcare Representative,5-9 years,manager,Frequent manager changes made it hard to build trust. Training opportunities were limited.
+C0066,Sales,Sales Executive,10+ years,overtime,I was working late almost every night and it never let up. My manager rarely gave feedback or recognition.
+C0067,Research & Development,Manager,10+ years,commute,Travel requirements kept me away from home too often.
+C0068,Research & Development,Laboratory Technician,0-1 years,work_life,Work-life balance got worse every year.
+C0069,Research & Development,Laboratory Technician,10+ years,overtime,I burned out from the overtime expectations during busy seasons. I went years without a promotion despite strong reviews.
+C0070,Sales,Sales Representative,10+ years,commute,Travel requirements kept me away from home too often.
+C0071,Research & Development,Manager,10+ years,growth,"I wanted to learn new skills, but there was no budget for it."
+C0072,Research & Development,Manager,10+ years,growth,"I wanted to learn new skills, but there was no budget for it. Raises were small compared to what peers earn at other companies."
+C0073,Research & Development,Healthcare Representative,2-4 years,promotion,Promotions seemed to go to the same few people. My manager rarely gave feedback or recognition.
+C0074,Sales,Sales Representative,10+ years,commute,Travel requirements kept me away from home too often. Promotions seemed to go to the same few people.
+C0075,Research & Development,Laboratory Technician,0-1 years,growth,"I wanted to learn new skills, but there was no budget for it."
+C0076,Research & Development,Research Director,5-9 years,promotion,I went years without a promotion despite strong reviews.
+C0077,Research & Development,Manufacturing Director,2-4 years,commute,Travel requirements kept me away from home too often.
+C0078,Research & Development,Healthcare Representative,2-4 years,promotion,I went years without a promotion despite strong reviews. I could not take time off without falling behind.
+C0079,Research & Development,Laboratory Technician,0-1 years,positive,I am leaving for personal reasons; the company treated me well.
+C0080,Research & Development,Research Director,2-4 years,commute,"The commute was too long and it wore me down. I wanted to grow, but the role felt like a dead end."
+C0081,Sales,Sales Representative,5-9 years,pay,Compensation was the main reason I started looking. I could not take time off without falling behind.
+C0082,Research & Development,Manufacturing Director,0-1 years,pay,I received a much better salary offer elsewhere.
+C0083,Human Resources,Manager,0-1 years,pay,I received a much better salary offer elsewhere.
+C0084,Research & Development,Laboratory Technician,2-4 years,overtime,I was working late almost every night and it never let up.
+C0085,Sales,Manager,5-9 years,overtime,"The overtime became the normal schedule, not the exception."
+C0086,Research & Development,Laboratory Technician,2-4 years,work_life,The workload made it hard to have a life outside work.
+C0087,Human Resources,Human Resources,10+ years,manager,Frequent manager changes made it hard to build trust.
+C0088,Research & Development,Manager,0-1 years,overtime,"The overtime became the normal schedule, not the exception. The workload made it hard to have a life outside work."
+C0089,Research & Development,Research Director,5-9 years,growth,"I wanted to learn new skills, but there was no budget for it."
+C0090,Sales,Manager,0-1 years,pay,Compensation was the main reason I started looking.
+C0091,Research & Development,Healthcare Representative,10+ years,work_life,I could not take time off without falling behind.
+C0092,Sales,Manager,10+ years,positive,"Great coworkers, and I would consider coming back in the future."
+C0093,Research & Development,Manager,0-1 years,commute,I moved farther away and the drive became unsustainable.
+C0094,Sales,Sales Representative,10+ years,pay,Compensation was the main reason I started looking.
+C0095,Sales,Sales Representative,5-9 years,work_life,Work-life balance got worse every year.
+C0096,Research & Development,Healthcare Representative,2-4 years,pay,Raises were small compared to what peers earn at other companies.
+C0097,Sales,Manager,10+ years,promotion,There was no clear path to the next level.
+C0098,Research & Development,Research Scientist,10+ years,overtime,"The overtime became the normal schedule, not the exception. Promotions seemed to go to the same few people."
+C0099,Research & Development,Healthcare Representative,5-9 years,promotion,Promotions seemed to go to the same few people. Frequent manager changes made it hard to build trust.
+C0100,Sales,Manager,2-4 years,pay,I received a much better salary offer elsewhere.
+C0101,Sales,Manager,2-4 years,promotion,Promotions seemed to go to the same few people.
+C0102,Sales,Sales Representative,2-4 years,overtime,I was working late almost every night and it never let up.
+C0103,Sales,Sales Executive,10+ years,manager,I did not feel supported by my direct manager.
+C0104,Sales,Sales Executive,5-9 years,manager,Communication with leadership was poor and inconsistent.
+C0105,Sales,Sales Executive,0-1 years,pay,Compensation was the main reason I started looking. I burned out from the overtime expectations during busy seasons.
+C0106,Research & Development,Manager,5-9 years,overtime,"The overtime became the normal schedule, not the exception."
+C0107,Sales,Sales Executive,2-4 years,overtime,I burned out from the overtime expectations during busy seasons.
+C0108,Research & Development,Manufacturing Director,5-9 years,promotion,"I wanted to grow, but the role felt like a dead end. I moved farther away and the drive became unsustainable."
+C0109,Research & Development,Research Scientist,2-4 years,work_life,The workload made it hard to have a life outside work. Travel requirements kept me away from home too often.
+C0110,Sales,Sales Executive,2-4 years,overtime,"The overtime became the normal schedule, not the exception."
+C0111,Sales,Sales Representative,10+ years,commute,I moved farther away and the drive became unsustainable. Raises were small compared to what peers earn at other companies.
+C0112,Sales,Sales Executive,2-4 years,growth,My work stopped being challenging.
+C0113,Research & Development,Research Director,2-4 years,pay,My pay did not keep up with the market for my role.
+C0114,Sales,Sales Executive,5-9 years,work_life,The workload made it hard to have a life outside work.
+C0115,Research & Development,Manufacturing Director,10+ years,work_life,The workload made it hard to have a life outside work. Compensation was the main reason I started looking.
+C0116,Sales,Sales Executive,2-4 years,growth,My work stopped being challenging. I received a much better salary offer elsewhere.
+C0117,Human Resources,Human Resources,5-9 years,positive,I am leaving for personal reasons; the company treated me well.
+C0118,Research & Development,Laboratory Technician,2-4 years,manager,Communication with leadership was poor and inconsistent.
+C0119,Human Resources,Manager,10+ years,commute,I moved farther away and the drive became unsustainable.
+C0120,Sales,Sales Representative,5-9 years,pay,I received a much better salary offer elsewhere.
+C0121,Research & Development,Manufacturing Director,0-1 years,pay,Compensation was the main reason I started looking.
+C0122,Research & Development,Healthcare Representative,10+ years,pay,I received a much better salary offer elsewhere.
+C0123,Research & Development,Research Scientist,0-1 years,work_life,The workload made it hard to have a life outside work.
+C0124,Sales,Sales Representative,0-1 years,manager,Communication with leadership was poor and inconsistent.
+C0125,Sales,Manager,0-1 years,overtime,Constant extra hours left no time for my family. Work-life balance got worse every year.
+C0126,Human Resources,Human Resources,10+ years,work_life,I could not take time off without falling behind.
+C0127,Sales,Sales Executive,2-4 years,promotion,I went years without a promotion despite strong reviews.
+C0128,Research & Development,Manager,2-4 years,pay,Raises were small compared to what peers earn at other companies. Communication with leadership was poor and inconsistent.
+C0129,Research & Development,Laboratory Technician,5-9 years,promotion,There was no clear path to the next level.
+C0130,Research & Development,Manufacturing Director,5-9 years,promotion,Promotions seemed to go to the same few people.
+C0131,Research & Development,Research Director,2-4 years,commute,Travel requirements kept me away from home too often.
+C0132,Research & Development,Manufacturing Director,5-9 years,promotion,"I wanted to grow, but the role felt like a dead end."
+C0133,Research & Development,Manager,5-9 years,pay,Compensation was the main reason I started looking. Work-life balance got worse every year.
+C0134,Research & Development,Manager,10+ years,growth,"I wanted to learn new skills, but there was no budget for it. I did not feel supported by my direct manager."
+C0135,Human Resources,Human Resources,10+ years,manager,Frequent manager changes made it hard to build trust.
+C0136,Sales,Sales Representative,0-1 years,overtime,"The overtime became the normal schedule, not the exception. The commute was too long and it wore me down."
+C0137,Research & Development,Healthcare Representative,5-9 years,promotion,"I wanted to grow, but the role felt like a dead end."
+C0138,Research & Development,Research Director,10+ years,promotion,Promotions seemed to go to the same few people.
+C0139,Research & Development,Research Scientist,5-9 years,work_life,Work-life balance got worse every year.
+C0140,Human Resources,Human Resources,0-1 years,manager,My manager rarely gave feedback or recognition.
+C0141,Research & Development,Manager,5-9 years,pay,I received a much better salary offer elsewhere. I could not take time off without falling behind.
+C0142,Sales,Sales Executive,2-4 years,pay,Compensation was the main reason I started looking.
+C0143,Sales,Sales Executive,2-4 years,manager,Communication with leadership was poor and inconsistent.
+C0144,Research & Development,Research Director,10+ years,overtime,I burned out from the overtime expectations during busy seasons.
+C0145,Sales,Sales Executive,2-4 years,growth,"I wanted to learn new skills, but there was no budget for it."
+C0146,Sales,Sales Representative,10+ years,positive,"Great coworkers, and I would consider coming back in the future."
+C0147,Research & Development,Manufacturing Director,10+ years,growth,Training opportunities were limited.
+C0148,Sales,Sales Representative,5-9 years,manager,Frequent manager changes made it hard to build trust.
+C0149,Sales,Manager,0-1 years,promotion,I went years without a promotion despite strong reviews.
+C0150,Research & Development,Manager,2-4 years,manager,Frequent manager changes made it hard to build trust.
+C0151,Research & Development,Healthcare Representative,2-4 years,pay,My pay did not keep up with the market for my role.
+C0152,Research & Development,Manager,0-1 years,work_life,I could not take time off without falling behind.
+C0153,Research & Development,Manager,2-4 years,overtime,Constant extra hours left no time for my family. I did not feel supported by my direct manager.
+C0154,Research & Development,Healthcare Representative,5-9 years,manager,Frequent manager changes made it hard to build trust.
+C0155,Research & Development,Manufacturing Director,5-9 years,positive,"Great coworkers, and I would consider coming back in the future."
+C0156,Research & Development,Manufacturing Director,2-4 years,positive,"Overall I enjoyed my team, but the opportunity elsewhere was too good to pass up."
+C0157,Research & Development,Manager,5-9 years,work_life,I could not take time off without falling behind.
+C0158,Sales,Sales Representative,5-9 years,overtime,I was working late almost every night and it never let up.
+C0159,Research & Development,Manager,2-4 years,positive,"Overall I enjoyed my team, but the opportunity elsewhere was too good to pass up."
+C0160,Research & Development,Research Director,10+ years,growth,My work stopped being challenging. My manager rarely gave feedback or recognition.
+C0161,Research & Development,Healthcare Representative,10+ years,work_life,"Work-life balance got worse every year. I wanted to learn new skills, but there was no budget for it."
+C0162,Sales,Sales Executive,2-4 years,growth,"Training opportunities were limited. I wanted to grow, but the role felt like a dead end."
+C0163,Research & Development,Manager,5-9 years,overtime,I burned out from the overtime expectations during busy seasons.
+C0164,Sales,Sales Representative,5-9 years,pay,Compensation was the main reason I started looking.
+C0165,Sales,Manager,10+ years,pay,Raises were small compared to what peers earn at other companies. I went years without a promotion despite strong reviews.
+C0166,Sales,Sales Executive,0-1 years,commute,Travel requirements kept me away from home too often.
+C0167,Research & Development,Laboratory Technician,2-4 years,positive,I am leaving for personal reasons; the company treated me well.
+C0168,Sales,Manager,2-4 years,pay,My pay did not keep up with the market for my role.
+C0169,Sales,Sales Executive,2-4 years,work_life,The workload made it hard to have a life outside work. Training opportunities were limited.
+C0170,Research & Development,Laboratory Technician,5-9 years,overtime,I was working late almost every night and it never let up. I did not feel supported by my direct manager.
+C0171,Sales,Sales Representative,0-1 years,overtime,I burned out from the overtime expectations during busy seasons.
+C0172,Research & Development,Healthcare Representative,2-4 years,manager,My manager rarely gave feedback or recognition.
+C0173,Research & Development,Research Scientist,10+ years,work_life,The workload made it hard to have a life outside work.
+C0174,Research & Development,Research Scientist,10+ years,overtime,I burned out from the overtime expectations during busy seasons.
+C0175,Research & Development,Manufacturing Director,0-1 years,work_life,"I could not take time off without falling behind. The overtime became the normal schedule, not the exception."
+C0176,Sales,Manager,10+ years,commute,Travel requirements kept me away from home too often.
+C0177,Human Resources,Manager,2-4 years,manager,Communication with leadership was poor and inconsistent. The workload made it hard to have a life outside work.
+C0178,Research & Development,Laboratory Technician,10+ years,promotion,"I wanted to grow, but the role felt like a dead end. I could not take time off without falling behind."
+C0179,Sales,Sales Representative,10+ years,pay,My pay did not keep up with the market for my role.
+C0180,Sales,Sales Executive,5-9 years,overtime,I was working late almost every night and it never let up.
+C0181,Research & Development,Research Director,10+ years,overtime,Constant extra hours left no time for my family.
+C0182,Sales,Manager,0-1 years,positive,"Great coworkers, and I would consider coming back in the future."
+C0183,Human Resources,Manager,5-9 years,promotion,There was no clear path to the next level. My manager rarely gave feedback or recognition.
+C0184,Research & Development,Healthcare Representative,10+ years,overtime,Constant extra hours left no time for my family.
+C0185,Research & Development,Research Director,5-9 years,work_life,The workload made it hard to have a life outside work.
+C0186,Sales,Sales Representative,5-9 years,commute,I moved farther away and the drive became unsustainable.
+C0187,Sales,Sales Executive,0-1 years,manager,Communication with leadership was poor and inconsistent. Work-life balance got worse every year.
+C0188,Research & Development,Laboratory Technician,0-1 years,promotion,"I wanted to grow, but the role felt like a dead end. Frequent manager changes made it hard to build trust."
+C0189,Research & Development,Laboratory Technician,5-9 years,overtime,I was working late almost every night and it never let up.
+C0190,Research & Development,Manufacturing Director,5-9 years,manager,Communication with leadership was poor and inconsistent. I received a much better salary offer elsewhere.
+C0191,Research & Development,Healthcare Representative,5-9 years,work_life,The workload made it hard to have a life outside work.
+C0192,Sales,Sales Representative,0-1 years,positive,"Overall I enjoyed my team, but the opportunity elsewhere was too good to pass up."
+C0193,Sales,Sales Executive,10+ years,work_life,I could not take time off without falling behind. I burned out from the overtime expectations during busy seasons.
+C0194,Sales,Sales Representative,5-9 years,manager,I did not feel supported by my direct manager.
+C0195,Sales,Manager,0-1 years,overtime,I was working late almost every night and it never let up.
+C0196,Research & Development,Research Director,10+ years,promotion,"I wanted to grow, but the role felt like a dead end."
+C0197,Sales,Sales Representative,5-9 years,overtime,"Constant extra hours left no time for my family. I wanted to learn new skills, but there was no budget for it."
+C0198,Sales,Sales Executive,10+ years,pay,Compensation was the main reason I started looking.
+C0199,Research & Development,Manager,0-1 years,promotion,Promotions seemed to go to the same few people.
+C0200,Research & Development,Research Scientist,5-9 years,manager,I did not feel supported by my direct manager.
+C0201,Sales,Manager,2-4 years,work_life,Work-life balance got worse every year. My pay did not keep up with the market for my role.
+C0202,Research & Development,Manager,10+ years,overtime,I burned out from the overtime expectations during busy seasons.
+C0203,Research & Development,Research Director,2-4 years,work_life,"The workload made it hard to have a life outside work. I wanted to learn new skills, but there was no budget for it."
+C0204,Research & Development,Manufacturing Director,0-1 years,promotion,Promotions seemed to go to the same few people.
+C0205,Sales,Sales Executive,0-1 years,pay,Compensation was the main reason I started looking. Frequent manager changes made it hard to build trust.
+C0206,Research & Development,Research Scientist,10+ years,work_life,The workload made it hard to have a life outside work. My manager rarely gave feedback or recognition.
+C0207,Research & Development,Research Director,2-4 years,work_life,I could not take time off without falling behind.
+C0208,Human Resources,Manager,0-1 years,pay,Raises were small compared to what peers earn at other companies.
+C0209,Research & Development,Laboratory Technician,2-4 years,overtime,I burned out from the overtime expectations during busy seasons.
+C0210,Sales,Sales Representative,0-1 years,promotion,Promotions seemed to go to the same few people.
+C0211,Research & Development,Manager,5-9 years,promotion,Promotions seemed to go to the same few people. I could not take time off without falling behind.
+C0212,Research & Development,Manager,2-4 years,positive,I am leaving for personal reasons; the company treated me well.
+C0213,Sales,Manager,2-4 years,commute,I moved farther away and the drive became unsustainable. Communication with leadership was poor and inconsistent.
+C0214,Research & Development,Research Scientist,5-9 years,pay,Compensation was the main reason I started looking.
+C0215,Research & Development,Manager,0-1 years,work_life,The workload made it hard to have a life outside work.
+C0216,Research & Development,Manufacturing Director,5-9 years,manager,My manager rarely gave feedback or recognition. My pay did not keep up with the market for my role.
+C0217,Research & Development,Manufacturing Director,0-1 years,overtime,"The overtime became the normal schedule, not the exception. I went years without a promotion despite strong reviews."
+C0218,Research & Development,Research Director,10+ years,overtime,I burned out from the overtime expectations during busy seasons. There was no clear path to the next level.
+C0219,Sales,Sales Representative,5-9 years,commute,The commute was too long and it wore me down.
+C0220,Research & Development,Manufacturing Director,2-4 years,pay,My pay did not keep up with the market for my role. I could not take time off without falling behind.
+C0221,Sales,Manager,5-9 years,positive,"Great coworkers, and I would consider coming back in the future."
+C0222,Research & Development,Research Director,2-4 years,manager,I did not feel supported by my direct manager.
+C0223,Research & Development,Research Scientist,0-1 years,work_life,I could not take time off without falling behind.
+C0224,Research & Development,Research Director,2-4 years,growth,"I wanted to learn new skills, but there was no budget for it. I burned out from the overtime expectations during busy seasons."
+C0225,Research & Development,Research Scientist,10+ years,positive,"Overall I enjoyed my team, but the opportunity elsewhere was too good to pass up."
+C0226,Research & Development,Research Scientist,2-4 years,promotion,"I wanted to grow, but the role felt like a dead end."
+C0227,Sales,Sales Executive,2-4 years,pay,I received a much better salary offer elsewhere. Constant extra hours left no time for my family.
+C0228,Sales,Sales Representative,2-4 years,growth,"I wanted to learn new skills, but there was no budget for it."
+C0229,Research & Development,Manufacturing Director,0-1 years,promotion,I went years without a promotion despite strong reviews.
+C0230,Sales,Sales Executive,0-1 years,manager,Communication with leadership was poor and inconsistent. Raises were small compared to what peers earn at other companies.
+C0231,Sales,Sales Representative,0-1 years,commute,Travel requirements kept me away from home too often.
+C0232,Research & Development,Manufacturing Director,2-4 years,commute,The commute was too long and it wore me down.
+C0233,Research & Development,Healthcare Representative,5-9 years,promotion,Promotions seemed to go to the same few people. My manager rarely gave feedback or recognition.
+C0234,Sales,Manager,5-9 years,manager,"My manager rarely gave feedback or recognition. I wanted to grow, but the role felt like a dead end."
+C0235,Sales,Sales Executive,0-1 years,pay,I received a much better salary offer elsewhere. The workload made it hard to have a life outside work.
+C0236,Research & Development,Manager,10+ years,growth,Training opportunities were limited. I did not feel supported by my direct manager.
+C0237,Human Resources,Manager,0-1 years,commute,The commute was too long and it wore me down. I could not take time off without falling behind.
+C0238,Sales,Sales Executive,10+ years,work_life,Work-life balance got worse every year. Compensation was the main reason I started looking.
+C0239,Sales,Manager,0-1 years,pay,Raises were small compared to what peers earn at other companies.
+C0240,Research & Development,Healthcare Representative,10+ years,pay,Raises were small compared to what peers earn at other companies. Communication with leadership was poor and inconsistent.
+C0241,Sales,Sales Executive,0-1 years,promotion,"I wanted to grow, but the role felt like a dead end. I could not take time off without falling behind."
+C0242,Research & Development,Research Scientist,5-9 years,promotion,There was no clear path to the next level.
+C0243,Sales,Sales Representative,10+ years,commute,I moved farther away and the drive became unsustainable. Work-life balance got worse every year.
+C0244,Sales,Sales Executive,10+ years,commute,I moved farther away and the drive became unsustainable.
+C0245,Sales,Sales Executive,2-4 years,overtime,I burned out from the overtime expectations during busy seasons. The workload made it hard to have a life outside work.
+C0246,Human Resources,Human Resources,0-1 years,growth,My work stopped being challenging.
+C0247,Sales,Sales Executive,2-4 years,work_life,I could not take time off without falling behind. Training opportunities were limited.
+C0248,Research & Development,Healthcare Representative,5-9 years,promotion,I went years without a promotion despite strong reviews.
+C0249,Research & Development,Manager,0-1 years,pay,"I received a much better salary offer elsewhere. I wanted to grow, but the role felt like a dead end."
+C0250,Sales,Sales Representative,5-9 years,commute,The commute was too long and it wore me down.
+C0251,Research & Development,Manufacturing Director,10+ years,pay,My pay did not keep up with the market for my role.
+C0252,Sales,Manager,5-9 years,promotion,I went years without a promotion despite strong reviews.
+C0253,Research & Development,Manager,2-4 years,overtime,Constant extra hours left no time for my family.
+C0254,Research & Development,Manager,0-1 years,work_life,I could not take time off without falling behind.
+C0255,Human Resources,Human Resources,10+ years,promotion,"I wanted to grow, but the role felt like a dead end. I moved farther away and the drive became unsustainable."
+C0256,Research & Development,Research Director,10+ years,overtime,I was working late almost every night and it never let up. Communication with leadership was poor and inconsistent.
+C0257,Research & Development,Research Director,10+ years,overtime,Constant extra hours left no time for my family.
+C0258,Research & Development,Research Director,2-4 years,promotion,There was no clear path to the next level.
+C0259,Research & Development,Research Scientist,2-4 years,growth,My work stopped being challenging. Constant extra hours left no time for my family.
+C0260,Sales,Manager,2-4 years,growth,Training opportunities were limited. Frequent manager changes made it hard to build trust.
+C0261,Research & Development,Research Director,2-4 years,commute,Travel requirements kept me away from home too often.
+C0262,Sales,Manager,0-1 years,commute,Travel requirements kept me away from home too often. Training opportunities were limited.
+C0263,Sales,Manager,10+ years,work_life,I could not take time off without falling behind.
+C0264,Research & Development,Research Scientist,5-9 years,manager,Frequent manager changes made it hard to build trust.
+C0265,Research & Development,Manager,10+ years,promotion,"I wanted to grow, but the role felt like a dead end. I burned out from the overtime expectations during busy seasons."
+C0266,Research & Development,Laboratory Technician,5-9 years,promotion,There was no clear path to the next level. The workload made it hard to have a life outside work.
+C0267,Human Resources,Human Resources,5-9 years,work_life,The workload made it hard to have a life outside work.
+C0268,Sales,Sales Executive,10+ years,pay,My pay did not keep up with the market for my role. I burned out from the overtime expectations during busy seasons.
+C0269,Sales,Sales Executive,2-4 years,work_life,The workload made it hard to have a life outside work.
+C0270,Research & Development,Manufacturing Director,10+ years,positive,"Great coworkers, and I would consider coming back in the future."
+C0271,Research & Development,Manufacturing Director,2-4 years,overtime,I burned out from the overtime expectations during busy seasons.
+C0272,Sales,Sales Representative,10+ years,overtime,Constant extra hours left no time for my family.
+C0273,Sales,Sales Executive,10+ years,work_life,I could not take time off without falling behind. Raises were small compared to what peers earn at other companies.
+C0274,Sales,Sales Representative,10+ years,overtime,"The overtime became the normal schedule, not the exception. I wanted to grow, but the role felt like a dead end."
+C0275,Research & Development,Healthcare Representative,0-1 years,growth,My work stopped being challenging.
+C0276,Sales,Sales Executive,5-9 years,promotion,Promotions seemed to go to the same few people.
+C0277,Research & Development,Laboratory Technician,0-1 years,work_life,I could not take time off without falling behind.
+C0278,Sales,Manager,2-4 years,pay,Compensation was the main reason I started looking.
+C0279,Research & Development,Research Director,5-9 years,overtime,Constant extra hours left no time for my family. My work stopped being challenging.
+C0280,Research & Development,Research Director,5-9 years,growth,My work stopped being challenging.
+C0281,Research & Development,Research Scientist,5-9 years,promotion,I went years without a promotion despite strong reviews.
+C0282,Research & Development,Manager,0-1 years,growth,My work stopped being challenging. There was no clear path to the next level.
+C0283,Research & Development,Laboratory Technician,0-1 years,manager,Communication with leadership was poor and inconsistent. Work-life balance got worse every year.
+C0284,Sales,Sales Representative,0-1 years,pay,"My pay did not keep up with the market for my role. I wanted to grow, but the role felt like a dead end."
+C0285,Research & Development,Research Director,10+ years,pay,Raises were small compared to what peers earn at other companies.
+C0286,Research & Development,Healthcare Representative,5-9 years,positive,"Great coworkers, and I would consider coming back in the future."
+C0287,Research & Development,Manager,5-9 years,growth,My work stopped being challenging.
+C0288,Research & Development,Laboratory Technician,5-9 years,positive,"Great coworkers, and I would consider coming back in the future."
+C0289,Sales,Sales Representative,10+ years,work_life,The workload made it hard to have a life outside work. I moved farther away and the drive became unsustainable.
+C0290,Sales,Manager,10+ years,pay,I received a much better salary offer elsewhere.
+C0291,Research & Development,Manufacturing Director,5-9 years,growth,Training opportunities were limited. I received a much better salary offer elsewhere.
+C0292,Research & Development,Manager,5-9 years,pay,Compensation was the main reason I started looking. I could not take time off without falling behind.
+C0293,Sales,Manager,2-4 years,commute,The commute was too long and it wore me down. The workload made it hard to have a life outside work.
+C0294,Research & Development,Research Scientist,0-1 years,overtime,Constant extra hours left no time for my family.
+C0295,Research & Development,Laboratory Technician,10+ years,overtime,"The overtime became the normal schedule, not the exception. I wanted to learn new skills, but there was no budget for it."
+C0296,Research & Development,Healthcare Representative,0-1 years,pay,I received a much better salary offer elsewhere.
+C0297,Research & Development,Laboratory Technician,0-1 years,commute,Travel requirements kept me away from home too often.
+C0298,Research & Development,Laboratory Technician,0-1 years,promotion,There was no clear path to the next level.
+C0299,Human Resources,Manager,5-9 years,growth,Training opportunities were limited.
+C0300,Research & Development,Research Scientist,5-9 years,pay,I received a much better salary offer elsewhere.
