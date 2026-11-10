@@ -1,5 +1,4 @@
--- 01: Setup and load (Evening 1)
--- Run in a Snowsight SQL worksheet as ACCOUNTADMIN on your trial account.
+-- 01: Setup and load
 
 USE ROLE ACCOUNTADMIN;
 
@@ -32,13 +31,10 @@ CREATE OR REPLACE TABLE RAW.EXIT_COMMENTS (
   PRIMARY_THEME STRING, COMMENT_TEXT STRING
 );
 
--- Stage for uploads
 CREATE OR REPLACE STAGE RAW.UPLOADS;
 CREATE OR REPLACE FILE FORMAT RAW.CSV_FMT
   TYPE = CSV SKIP_HEADER = 1 FIELD_OPTIONALLY_ENCLOSED_BY = '"';
 
--- NOW: in Snowsight go to Data > Databases > HR_ANALYTICS > RAW > Stages > UPLOADS,
--- click "+ Files", and upload both CSVs. Then run:
 
 COPY INTO RAW.EMPLOYEES
   FROM @RAW.UPLOADS/WA_Fn-UseC_-HR-Employee-Attrition.csv
@@ -48,6 +44,6 @@ COPY INTO RAW.EXIT_COMMENTS
   FROM @RAW.UPLOADS/exit_comments_synthetic.csv
   FILE_FORMAT = (FORMAT_NAME = 'RAW.CSV_FMT');
 
--- Check: expect 1470 employees and 300 comments
+-- 1470 employees and 300 comments
 SELECT COUNT(*) FROM RAW.EMPLOYEES;
 SELECT COUNT(*) FROM RAW.EXIT_COMMENTS;
